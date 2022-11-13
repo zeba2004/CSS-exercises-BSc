@@ -4,10 +4,6 @@ These exercises are a series of CSS related tasks intended to complement the HTM
 
 When doing these exercises, please use all the documentation and resources you need to accomplish them. You are _not_ intended to have any of this stuff memorized at this point. Check the docs, use Google, do what you need to do (besides checking the solutions) to get them done.
 
-## Contributing
-
-If you have a suggestion to improve an exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to open an issue after thoroughly reading our [contributing guide](https://github.com/TheOdinProject/theodinproject/blob/main/CONTRIBUTING.md) in our main TOP repo.
-
 ## How To Use These Exercises 
 
 1. Fork and clone this repository. To learn how to fork a repository, see the GitHub documentation on how to [fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo). 
